@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontGlyphTest", "FontGlyphTest\FontGlyphTest.csproj", "{84B6A55F-1737-4D00-80FD-5C02700BF181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticlassClassification_MNIST", "MulticlassClassification_MNIST\MulticlassClassification_MNIST.csproj", "{9A293F56-91F1-459C-8B43-B9613F305831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B6A55F-1737-4D00-80FD-5C02700BF181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B6A55F-1737-4D00-80FD-5C02700BF181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B6A55F-1737-4D00-80FD-5C02700BF181}.Debug|x64.ActiveCfg = Debug|x64
+		{84B6A55F-1737-4D00-80FD-5C02700BF181}.Debug|x64.Build.0 = Debug|x64
+		{84B6A55F-1737-4D00-80FD-5C02700BF181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B6A55F-1737-4D00-80FD-5C02700BF181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B6A55F-1737-4D00-80FD-5C02700BF181}.Release|x64.ActiveCfg = Release|x64
+		{84B6A55F-1737-4D00-80FD-5C02700BF181}.Release|x64.Build.0 = Release|x64
+		{9A293F56-91F1-459C-8B43-B9613F305831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A293F56-91F1-459C-8B43-B9613F305831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A293F56-91F1-459C-8B43-B9613F305831}.Debug|x64.ActiveCfg = Debug|x64
+		{9A293F56-91F1-459C-8B43-B9613F305831}.Debug|x64.Build.0 = Debug|x64
+		{9A293F56-91F1-459C-8B43-B9613F305831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A293F56-91F1-459C-8B43-B9613F305831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A293F56-91F1-459C-8B43-B9613F305831}.Release|x64.ActiveCfg = Release|x64
+		{9A293F56-91F1-459C-8B43-B9613F305831}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {198A15F1-6C17-43DB-A4A9-9031029B5FF1}
+	EndGlobalSection
+EndGlobal
